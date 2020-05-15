@@ -168,7 +168,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [RangeSlider](https://github.com/boeledi/RangeSlider) [211⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [195⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [161⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
-
+- [Flutter Volume Slider] (https://github.com/ThePredators/FlutterVolumeSlider) - A slider to control device volume with both displays vertical & horizontal. 
 #### UI Helpers
 
 - [Reorderables](https://github.com/hanshengchiu/reorderables) [222⭐] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
